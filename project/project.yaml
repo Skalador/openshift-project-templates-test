@@ -1,0 +1,6 @@
+apiVersion: project.openshift.io/v1
+kind: Project
+metadata:
+  name: my-project
+description: "This project was created from a project CR"
+displayName: "Project created from project"
