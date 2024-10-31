@@ -1,0 +1,6 @@
+apiVersion: project.openshift.io/v1
+kind: ProjectRequest
+metadata:
+  name: my-projectrequest-project
+description: "This project was created from a projectRequest CR"
+displayName: "Project created from projectRequest"
